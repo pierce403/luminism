@@ -1,0 +1,62 @@
+site_name: Luminism
+site_url: https://luminism.io
+repo_url: https://github.com/Luminism/whitepaper
+edit_uri: edit/main/docs/
+theme:
+  name: material
+  logo: assets/LuminismLogo.png
+  palette:
+    - scheme: default
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github-alt
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/extra.js
+
+nav:
+  - Home: index.md
+  - Ideological Crossroads: ideological_crossroads.md
+  - Inevitable Trajectory: inevitable_trajectory.md
+  - Ethereum as Heartland: heartland_ethereum.md
+  - Key Mechanisms:
+    - Overview: key_mechanisms/index.md
+    - Quadratic Voting & Funding: key_mechanisms/quadratic_voting_funding.md
+    - Fork-and-Merge Governance: key_mechanisms/fork_and_merge.md
+    - DAOs: key_mechanisms/daos.md
+    - Antifragile Decentralization: key_mechanisms/antifragile_decentralization.md
+  - Overcoming Challenges:
+    - Overview: challenges/index.md
+    - Sybil Resistance: challenges/sybil_resistance.md
+    - Scalability: challenges/scalability.md
+    - Security, Privacy, Defense: challenges/security_privacy_defense.md
+  - Beyond Traditional Governance: beyond_traditional_governance.md
+  - Call to Action: call_to_action.md
+  - References: references.md
+
+# copyright: Copyright &copy; 2023 Luminism

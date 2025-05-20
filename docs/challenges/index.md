@@ -1,0 +1,3 @@
+# Overcoming Key Challenges
+
+No vision is complete without addressing the practical challenges that must be overcome to realize it. Crypto-Luminism faces several well-known hurdles: Sybil attacks and identity verification, scalability of blockchain governance, and security threats to open networks. Here we provide reassurance and technical clarity on these challenges, along with how Ethereum's community is solving them. 
