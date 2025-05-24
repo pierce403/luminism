@@ -4,7 +4,7 @@ repo_url: https://github.com/Luminism/whitepaper
 edit_uri: edit/main/docs/
 theme:
   name: material
-  logo: assets/LuminismLogo.png
+  logo: img/LuminismLogo.png
   palette:
     - scheme: default
       primary: black
@@ -41,9 +41,9 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Ideological Crossroads: ideological_crossroads.md
-  - Inevitable Trajectory: inevitable_trajectory.md
-  - Ethereum as Heartland: heartland_ethereum.md
+  - Ideological Crossroads: ideological_crossroads/index.md
+  - Inevitable Trajectory: inevitable_trajectory/index.md
+  - Heartland Ethereum: heartland_ethereum.md
   - Key Mechanisms:
     - Overview: key_mechanisms/index.md
     - Quadratic Voting & Funding: key_mechanisms/quadratic_voting_funding.md
