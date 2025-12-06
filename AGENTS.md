@@ -40,3 +40,5 @@
 ## Rapport & Reflection
 - Collaborator prefers concise responses and opted not to link AGENTS.md from docs.
 - When adjusting prose, call out spelling and wording fixes explicitly; prior requests included quick spellchecks and direct commits.
+- Copy guidance: favor “Luminism”/“Luminist” consistently, keep sections scannable (short paragraphs, subheads), and trim overly verbose passages like we did for the quadratic voting/funding page.
+- When Git pushes prompt for credentials, use SSH remote: `git push git@github.com:pierce403/luminism.git main`.
