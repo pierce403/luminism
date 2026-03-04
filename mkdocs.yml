@@ -1,6 +1,6 @@
 site_name: Luminism
 site_url: https://luminism.io
-repo_url: https://github.com/Luminism/whitepaper
+repo_url: https://github.com/pierce403/luminism
 edit_uri: edit/main/docs/
 theme:
   name: material
