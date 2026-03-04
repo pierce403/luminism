@@ -2,7 +2,7 @@
 
 A **resource co-op** is a member-governed utility that funds and manages shared capacity (energy, bandwidth, compute, messaging, etc.) using an explicit fairness rule.
 
-The goal: make “normal life” feel cheap while still pricing the behaviors that create real scarcity.
+The goal: make “normal life” feel stress-free while still pricing the behaviors that create real scarcity.
 
 ## The core pricing idea: charge for *above-mean* consumption
 
