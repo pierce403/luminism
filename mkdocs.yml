@@ -57,6 +57,10 @@ nav:
     - Security, Privacy, Defense: challenges/security_privacy_defense.md
   - Beyond Traditional Governance: beyond_traditional_governance.md
   - Call to Action: call_to_action.md
+  - Co-op Primitives:
+    - Overview: coop_primitives/index.md
+    - Resource Co-ops: coop_primitives/resource_coops.md
+    - Membership & Accountability: coop_primitives/membership_accountability.md
   - References: references.md
 
 # copyright: Copyright &copy; 2023 Luminism
