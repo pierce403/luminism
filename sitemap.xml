@@ -1,79 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://luminism.io/</loc>
+         <loc>https://luminism.net/</loc>
          <lastmod>2026-03-04</lastmod>
     </url>
     <url>
-         <loc>https://luminism.io/beyond_traditional_governance/</loc>
+         <loc>https://luminism.net/beyond_traditional_governance/</loc>
          <lastmod>2026-03-04</lastmod>
     </url>
     <url>
-         <loc>https://luminism.io/call_to_action/</loc>
+         <loc>https://luminism.net/call_to_action/</loc>
          <lastmod>2026-03-04</lastmod>
     </url>
     <url>
-         <loc>https://luminism.io/heartland_ethereum/</loc>
+         <loc>https://luminism.net/glossary/</loc>
          <lastmod>2026-03-04</lastmod>
     </url>
     <url>
-         <loc>https://luminism.io/references/</loc>
+         <loc>https://luminism.net/heartland_ethereum/</loc>
          <lastmod>2026-03-04</lastmod>
     </url>
     <url>
-         <loc>https://luminism.io/challenges/</loc>
+         <loc>https://luminism.net/references/</loc>
          <lastmod>2026-03-04</lastmod>
     </url>
     <url>
-         <loc>https://luminism.io/challenges/scalability/</loc>
+         <loc>https://luminism.net/start_here/</loc>
          <lastmod>2026-03-04</lastmod>
     </url>
     <url>
-         <loc>https://luminism.io/challenges/security_privacy_defense/</loc>
+         <loc>https://luminism.net/challenges/</loc>
          <lastmod>2026-03-04</lastmod>
     </url>
     <url>
-         <loc>https://luminism.io/challenges/sybil_resistance/</loc>
+         <loc>https://luminism.net/challenges/scalability/</loc>
          <lastmod>2026-03-04</lastmod>
     </url>
     <url>
-         <loc>https://luminism.io/coop_primitives/</loc>
+         <loc>https://luminism.net/challenges/security_privacy_defense/</loc>
          <lastmod>2026-03-04</lastmod>
     </url>
     <url>
-         <loc>https://luminism.io/coop_primitives/membership_accountability/</loc>
+         <loc>https://luminism.net/challenges/sybil_resistance/</loc>
          <lastmod>2026-03-04</lastmod>
     </url>
     <url>
-         <loc>https://luminism.io/coop_primitives/resource_coops/</loc>
+         <loc>https://luminism.net/coop_primitives/</loc>
          <lastmod>2026-03-04</lastmod>
     </url>
     <url>
-         <loc>https://luminism.io/ideological_crossroads/</loc>
+         <loc>https://luminism.net/coop_primitives/membership_accountability/</loc>
          <lastmod>2026-03-04</lastmod>
     </url>
     <url>
-         <loc>https://luminism.io/inevitable_trajectory/</loc>
+         <loc>https://luminism.net/coop_primitives/resource_coops/</loc>
          <lastmod>2026-03-04</lastmod>
     </url>
     <url>
-         <loc>https://luminism.io/key_mechanisms/</loc>
+         <loc>https://luminism.net/ideological_crossroads/</loc>
          <lastmod>2026-03-04</lastmod>
     </url>
     <url>
-         <loc>https://luminism.io/key_mechanisms/antifragile_decentralization/</loc>
+         <loc>https://luminism.net/inevitable_trajectory/</loc>
          <lastmod>2026-03-04</lastmod>
     </url>
     <url>
-         <loc>https://luminism.io/key_mechanisms/daos/</loc>
+         <loc>https://luminism.net/key_mechanisms/</loc>
          <lastmod>2026-03-04</lastmod>
     </url>
     <url>
-         <loc>https://luminism.io/key_mechanisms/fork_and_merge/</loc>
+         <loc>https://luminism.net/key_mechanisms/antifragile_decentralization/</loc>
          <lastmod>2026-03-04</lastmod>
     </url>
     <url>
-         <loc>https://luminism.io/key_mechanisms/quadratic_voting_funding/</loc>
+         <loc>https://luminism.net/key_mechanisms/daos/</loc>
+         <lastmod>2026-03-04</lastmod>
+    </url>
+    <url>
+         <loc>https://luminism.net/key_mechanisms/fork_and_merge/</loc>
+         <lastmod>2026-03-04</lastmod>
+    </url>
+    <url>
+         <loc>https://luminism.net/key_mechanisms/quadratic_voting_funding/</loc>
          <lastmod>2026-03-04</lastmod>
     </url>
 </urlset>
