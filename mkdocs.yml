@@ -1,5 +1,5 @@
 site_name: Luminism
-site_url: https://luminism.io
+site_url: https://luminism.net
 repo_url: https://github.com/pierce403/luminism
 edit_uri: edit/main/docs/
 theme:
@@ -41,6 +41,8 @@ extra_javascript:
 
 nav:
   - Home: index.md
+  - Start here: start_here.md
+  - Glossary: glossary.md
   - Ideological Crossroads: ideological_crossroads/index.md
   - Inevitable Trajectory: inevitable_trajectory/index.md
   - Heartland Ethereum: heartland_ethereum.md
