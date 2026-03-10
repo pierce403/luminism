@@ -8,7 +8,7 @@ Luminism begins from a simpler premise: **there is still a path forward**.
 
 **[Join the conversation](https://signal.group/#CjQKIPJUPF-Y0xmhOQoKTrsWE4pda8PCW24u2vA7jZW1BithEhBr9dhHfWdgSqfvt92TTDpZ)**
 
-Not because technology automatically saves us, and not because history bends toward justice on its own. There is a path forward because people can still learn, build, organize, and share what they know. If we make that easier—if we reduce the friction around coordination, participation, and resource access—then more people can help make the world better in their own way.
+Not because technology automatically saves us, and not because history bends toward justice on its own. There is a path forward because people can still learn, build, organize, and share what they know. If we make that easier,if we reduce the friction around coordination, participation, and resource access,then more people can help make the world better in their own way.
 
 ## What Luminism is trying to do
 
@@ -48,7 +48,7 @@ If a tool helps with that, use it. If it doesn’t, don’t.
 
 ## A practical direction
 
-The world is full of hidden knowledge, brittle supply chains, and institutions that have forgotten how to let people participate meaningfully. Luminism takes seriously the idea that this can be changed—not all at once, but through systems that are legible, forkable, and worth joining.
+The world is full of hidden knowledge, brittle supply chains, and institutions that have forgotten how to let people participate meaningfully. Luminism takes seriously the idea that this can be changed,not all at once, but through systems that are legible, forkable, and worth joining.
 
 That is why this site focuses on practical mechanisms:
 
