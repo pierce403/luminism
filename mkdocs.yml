@@ -42,7 +42,6 @@ extra_javascript:
 nav:
   - Home: index.md
   - Start here: start_here.md
-  - FAQ: faq.md
   - Glossary: glossary.md
   - Ideological Crossroads: ideological_crossroads/index.md
   - Inevitable Trajectory: inevitable_trajectory/index.md

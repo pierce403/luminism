@@ -8,7 +8,7 @@ Luminism begins from a simpler premise: **there is still a path forward**.
 
 **[Join the conversation](https://signal.group/#CjQKIPJUPF-Y0xmhOQoKTrsWE4pda8PCW24u2vA7jZW1BithEhBr9dhHfWdgSqfvt92TTDpZ)**
 
-Not because technology automatically saves us, and not because history bends toward justice on its own. There is a path forward because people can still learn, build, organize, and share what they know. If we make that easier,if we reduce the friction around coordination, participation, and resource access,then more people can help make the world better in their own way.
+Not because technology automatically saves us, and not because history bends toward justice on its own. There is a path forward because people can still learn, build, organize, and share what they know. If we make that easier, if we reduce the friction around coordination, participation, and resource access, then more people can help make the world better in their own way.
 
 ## What Luminism is trying to do
 
@@ -48,7 +48,7 @@ If a tool helps with that, use it. If it doesn’t, don’t.
 
 ## A practical direction
 
-The world is full of hidden knowledge, brittle supply chains, and institutions that have forgotten how to let people participate meaningfully. Luminism takes seriously the idea that this can be changed,not all at once, but through systems that are legible, forkable, and worth joining.
+The world is full of hidden knowledge, brittle supply chains, and institutions that have forgotten how to let people participate meaningfully. Luminism takes seriously the idea that this can be changed, not all at once, but through systems that are legible, forkable, and worth joining.
 
 That is why this site focuses on practical mechanisms:
 
@@ -60,16 +60,34 @@ That is why this site focuses on practical mechanisms:
 
 These are not the whole future. They are parts of a path toward one.
 
-## Start here
+## Questions you might have
 
-If you want the shortest version, begin with **Start here**.
+### Is this just about cryptocurrency?
+No. Luminism is about human flourishing, coordination, and building systems that give people more real agency. Cryptographic tools may be useful in some contexts, but they are not the point.
 
-If you want the underlying worldview, read **Ideological Crossroads**.
+If you want the broad framing, start with [Start here](start_here.md).
 
-If you want practical machinery, go to **Co-op Primitives** and **Key Mechanisms**.
+### Do I need to care about AI to care about this?
+No. Automation is one tool among many. The deeper questions are about participation, knowledge-sharing, resilience, and how we build institutions worth trusting.
 
-If you want the hard parts, read **Challenges**.
+If you care more about people than tooling, start with [Start here](start_here.md) and [Ideological Crossroads](ideological_crossroads/index.md).
 
-Luminism is not asking you to believe the future is already solved.
+### Is this a political ideology or a practical project?
+Both, but the practical side matters most. The goal is not to win an abstract argument. The goal is to build better ways to manage resources, share knowledge, and coordinate at scale.
 
-It is asking whether we can still build systems that deserve human hope.
+If you want concrete mechanisms, go to [Co-op Primitives](coop_primitives/index.md) and [Key Mechanisms](key_mechanisms/index.md).
+
+### Why are co-ops so central here?
+Because they are a familiar, grounded model for shared ownership and participatory governance. They let people organize around real resources without waiting for a complete reinvention of society.
+
+If that is your main interest, start with [Resource Co-ops](coop_primitives/resource_coops.md).
+
+### Is this trying to replace existing institutions all at once?
+No. Luminism is more interested in building workable alternatives, proving them out, and letting better systems spread because they are useful.
+
+If you want the constraints and tradeoffs, read [Overcoming Challenges](challenges/index.md).
+
+### What problem is this really trying to solve?
+A lot of people feel powerless because important knowledge is hoarded, institutions are brittle, and participation is often more symbolic than real. Luminism is trying to create systems that make hope more rational by giving people more capacity to participate, build, and leave bad systems behind.
+
+If you want the shortest version, start with [Start here](start_here.md).
