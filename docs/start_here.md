@@ -39,11 +39,11 @@ Some of the tools discussed here may involve cryptographic systems or automation
 
 ## How to read this site
 
-- **Ideological Crossroads** , why older political frames no longer feel sufficient
-- **Key Mechanisms** , governance tools worth understanding
-- **Co-op Primitives** , concrete ways to manage resources and membership
-- **Challenges** , the hard constraints and failure modes
-- **Call to Action** , what to build, test, and improve next
+- **Ideological Crossroads**, why older political frames no longer feel sufficient
+- **Key Mechanisms**, governance tools worth understanding
+- **Co-op Primitives**, concrete ways to manage resources and membership
+- **Challenges**, the hard constraints and failure modes
+- **Call to Action**, what to build, test, and improve next
 
 ## What to keep in mind
 

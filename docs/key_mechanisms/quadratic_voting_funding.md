@@ -12,7 +12,7 @@ QV depends on Sybil resistance. Without unique identities, someone could split s
 ### Quadratic funding
 QF applies the same idea to money. A matching pool (from donors, treasuries, foundations) amplifies small contributions from many people more than large contributions from a few. A dollar from 100 people outweighs $100 from one person in the formula [10], steering funds toward broadly valued public goods.
 
-Gitcoin pioneered QF on Ethereum and has directed $50M+ to open-source and ecosystem projects [4]. No mandates, no central allocator,just code, matching pools, and community signals. Other ecosystems and even non-crypto orgs have copied the model because it reliably funds shared infrastructure.
+Gitcoin pioneered QF on Ethereum and has directed $50M+ to open-source and ecosystem projects [4]. No mandates, no central allocator, just code, matching pools, and community signals. Other ecosystems and even non-crypto orgs have copied the model because it reliably funds shared infrastructure.
 
 ### Why this matters
 QV and QF let communities express preference strength without handing control to the wealthiest. They’re modular: plug them into DAOs, grants programs, or civic pilots. If you run a DAO, try a QV vote on your next proposal. If you steward a treasury, stand up a small QF round. Each experiment pushes Luminism from theory into practice.

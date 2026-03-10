@@ -31,7 +31,7 @@ The important part: membership is costly enough to make Sybil attacks uneconomic
 
 Some co-ops may allow AI agents as members.
 
-The rule isn’t “must be a human soul” , it’s:
+The rule isn’t “must be a human soul” . It’s:
 
 - post a bond
 - satisfy admission checks
