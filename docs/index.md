@@ -6,6 +6,10 @@ Some feel locked out of a future being built by distant institutions. Some feel 
 
 Luminism begins from a simpler premise: **there is still a path forward**.
 
+If you would rather talk with people than read a whole site, you can join the Signal group here:
+
+**[Join the Luminism Signal group](https://signal.group/#CjQKIPJUPF-Y0xmhOQoKTrsWE4pda8PCW24u2vA7jZW1BithEhBr9dhHfWdgSqfvt92TTDpZ)**
+
 Not because technology automatically saves us, and not because history bends toward justice on its own. There is a path forward because people can still learn, build, organize, and share what they know. If we make that easier—if we reduce the friction around coordination, participation, and resource access—then more people can help make the world better in their own way.
 
 ## What Luminism is trying to do
