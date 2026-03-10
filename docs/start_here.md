@@ -1,24 +1,54 @@
 # Start here
 
-Luminism is a proposal for governance in a world with global networks, cryptographic property, and increasingly capable machines.
+Luminism is for people who want a future worth building, but do not see a clear path through the systems we have now.
 
-**Thesis:** we can decentralize power by turning governance into deployable primitives—especially **co-ops**—that make baseline access reliable, align incentives, and keep exit ramps open.
+It starts from a simple belief: **human beings should have more agency, more resilience, and more ability to cooperate to build a better world**.
 
-## What Luminism is
+## The problem
 
-- A **framework**: principles + mechanisms you can actually apply.
-- A **toolkit**: quadratic mechanisms, fork-and-merge governance, co-op utilities, and accountable membership.
+A lot of modern life is organized around scarcity, opacity, and exclusion.
 
-## What Luminism is not
+- important knowledge is hoarded
+- institutions are hard to influence
+- participation is often symbolic rather than real
+- essential resources are managed in ways that feel fragile, adversarial, or extractive
 
-- Not a promise of perfect fairness.
-- Not a single identity oracle.
-- Not “onchain everything” for its own sake.
+This does not just make people poorer. It makes them feel powerless.
 
-## The spine (how to read this site)
+## The thesis
 
-1) **Ideological Crossroads** → why old frames fail in a networked world.
-2) **Key Mechanisms** → what we can implement today.
-3) **Co-op Primitives** → how to operationalize: resource co-ops + membership/accountability.
-4) **Challenges** → constraints, failure modes, and mitigations.
-5) **Call to Action** → what to build next.
+Luminism is an attempt to build systems that reverse that pattern.
+
+The goal is not perfect equality, total centralization, or blind trust in markets. The goal is to create institutions that help more people:
+
+- access what they need to live and build
+- participate meaningfully in decisions that affect them
+- share knowledge and improve systems together
+- leave systems that no longer serve them
+
+## The direction
+
+The site explores a practical path built around:
+
+- **co-ops** that manage real resources
+- **open knowledge** that spreads capability instead of bottling it up
+- **modular governance** that can be improved instead of treated as sacred
+- **accountable membership** that protects participation without requiring invasive control
+
+Some of the tools discussed here may involve cryptographic systems or automation. Those tools are not the point. They are optional machinery in service of human flourishing.
+
+## How to read this site
+
+- **Ideological Crossroads** — why older political frames no longer feel sufficient
+- **Key Mechanisms** — governance tools worth understanding
+- **Co-op Primitives** — concrete ways to manage resources and membership
+- **Challenges** — the hard constraints and failure modes
+- **Call to Action** — what to build, test, and improve next
+
+## What to keep in mind
+
+You do not need to agree with every implementation detail here to get value from the project.
+
+The important claim is smaller and stronger:
+
+**we can build institutions that give people more hope because they give people more real power to participate, create, and share.**
