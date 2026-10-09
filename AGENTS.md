@@ -33,7 +33,7 @@
 - Curation stance: Prioritizes accuracy, cites sources when available, flags ambiguity, and keeps content cohesive with the broader Luminism narrative.
 
 ## Known Issues & Tips
-- Git push over HTTPS prompts for missing credentials; use `git push git@github.com:pierce403/luminism.git main`.
+- Use the existing authenticated GitHub CLI/HTTPS remote for Git operations; verify `gh auth status` if authentication fails.
 - Always run `source activate.sh` before serving or building to ensure dependencies are installed.
 - Avoid editing `site/` directly; regenerate via `mkdocs build`.
 
@@ -41,4 +41,14 @@
 - Collaborator prefers concise responses and opted not to link AGENTS.md from docs.
 - When adjusting prose, call out spelling and wording fixes explicitly; prior requests included quick spellchecks and direct commits.
 - Copy guidance: favor “Luminism”/“Luminist” consistently, keep sections scannable (short paragraphs, subheads), and trim overly verbose passages like we did for the quadratic voting/funding page.
-- When Git pushes prompt for credentials, use SSH remote: `git push git@github.com:pierce403/luminism.git main`.
+- Keep the existing HTTPS remote and resolve GitHub CLI authentication rather than changing transport during deployment work.
+
+## Cloudflare migration lessons (2026-10-09)
+
+- Worker `luminism` publishes only `.cloudflare/site/`, leaving legacy `site/` untouched. Use `npm ci`, `npm run build`, and `npm run deploy:check`; strict MkDocs uses the baseline renderer versions in `requirements.lock`.
+- Native Git settings: `pierce403/luminism`, production `main`, root `/`, build `npm run build`, deploy `npx wrangler deploy`, paths `*`. GitHub Actions validates only; credentials stay in Cloudflare, with no GitHub Cloudflare secrets.
+- Initial config intentionally has no custom routes. Connection, workers.dev, exact custom domain, DNS import, nameservers, and public behavior must be verified independently; preparation alone is not a completed cutover.
+- Preserve canonical URL, existing public paths and standalone HTML, search, feeds, robots behavior, unrelated DNS/mail records, and prior Pages recovery source. Asset-only requests do not emit Worker invocation logs.
+- Do not overlap manual and native Git deployment. Pause automatic builds and wait before deliberate recovery; verify before re-enabling them.
+
+- Compatibility date is `2026-10-07`, the newest date supported by the bundled workerd in pinned Wrangler 4.145.0. A `2026-10-09` local runtime refused startup; this asset-only configuration uses the supported date so development and validation exercise the configured runtime. Review compatibility changes before advancing it with a future Wrangler update.
