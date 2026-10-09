@@ -23,8 +23,8 @@
   },
   "routes": [
     {
-      "pattern": "luminism.net",
-      "custom_domain": true
+      "pattern": "luminism.net/*",
+      "zone_name": "luminism.net"
     }
   ]
 }
